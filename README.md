@@ -1,6 +1,4 @@
-Perfeito! Aqui vai um **README completo** para o seu projeto, já pronto para colar no repositório:
 
-```markdown
 # Serviço de CEP - Atividade
 
 Projeto desenvolvido como atividade de Sistemas de Informação na FIAP. Este projeto implementa um serviço completo de CEP, que consome a API do Via CEP e persiste os dados em um banco de dados SQLite.
@@ -86,4 +84,5 @@ CREATE TABLE Ceps (
     Siafi TEXT,
     DataConsulta DATETIME NOT NULL
 );
+
 
